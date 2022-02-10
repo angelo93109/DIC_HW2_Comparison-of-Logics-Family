@@ -1,0 +1,13 @@
+radix	1111 1111
+vname	A[3:0] B[3:0]
+io		iiii iiii
+tunit ps
+slope 10
+vih 0.7
+vil 0
+period 200
+
+0111 1001
+0110 1001
+
+
